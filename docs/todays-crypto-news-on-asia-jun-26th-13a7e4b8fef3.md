@@ -1,0 +1,52 @@
+# 今天的亚洲加密新闻-6 月 26 日
+
+> 原文：<https://medium.com/hackernoon/todays-crypto-news-on-asia-jun-26th-13a7e4b8fef3>
+
+在交流改善之前，韩国不会投保；印度将于 7 月发布加密裁决；EOS block 制作人大戏继续
+
+> *密码业内人士对亚洲的解读。*
+
+**下周，我会在周三到周五在 Zug** 参加 [**Techcrunch 的区块链大会。客人将包括 Vitalik 和 CZ。如果你碰巧也在那里，我很想认识你！如果你以前不知道这些，现在一定要考虑去:)**](http://email.mg1.substack.com/c/eJwlz01uxCAMBeDThF0ifjKQLFhUTecaI3BooJNAhEmluf1AK3nlp2d9BlPclvJLnwkLudDlR1i1kHKaOFk1VRyUJUFzyiYquWQjo1wObFi-RiE-GZX3ifFFLd1Ij40NeFksBp4DpIN4bQQ4IeRtNkowOlO11sYkrLtJKmGcya59KSd24qPj9zrFgYd8RfDtQl24XxcLtgR6dIghReztnuAJ3oTYN1hNSfM3uporPOufVEHgQzSQX2dJ39efqPz_WZVrOmpdb3uyZocUYnboTAb_BhNdV1w)
+
+Tweet 和[关注我们](http://email.mg1.substack.com/c/eJxNj7FuxCAQRL_GlBYLHOCCIopzv3GCNbFJbGPBWqf7--CkiTTNFDPzBj3FOZeXO3IldtZYHmlyUmtrBZscNwJNYMkJDpZroUEBF7qHfvxQUr4D13cLYjRjp_g2Q1_PUMnjd495Y4vzUQmwqIcAwsZBW7QhanNTN4ke-MBWtxAdnXzrxL2Jnokolivd3Lzm4FfMaS-14MIuxgvPDA2uuK_cRnFJu8fyOih_nr-r9PelkUx582l3_2pijb41_QCnsE8C) **。我们将在 Twitter 上分享会议现场的重要事件和收获。**
+
+[现在就订阅](http://email.mg1.substack.com/c/eJxlkU1vozAQhn8NHJE_iCEHDhUkXWcD0VZpkvay8leCCWBkjFjy69dpT6uV5jKjZ-aVnhHMqZuxSzaY0YXTqOxvLTNMSJqiUGYgQSLhoc4QgCkgiMAYAkQiGBWbGOMcArJNISqSIohBd4PROPHRMXGPhOnCOlvhNOESpbFEGIIYXQkT6UoqsWJKcC7DNqudG8YAvwRo6-vWGs5aYXRv1aiYFfU_Jz3xbIXVXAV468xd9QEu1LKr-avQB72j7w8KK01H2r-tRE4JvQ-XU75bRx6CAp2WC2rvtDGPqvmID4UHu7aWHiyP74-yeFnKhi6VnvXnpZ4996c6lkvVbICfo32-GwQun0GzPFPnd5byK6yCH9qHdZX5PFeW4xOgPYiuNJl_HC5T-5MdC3h65Zu5lGel1zqdwGybvbySfp-_uflX-PzAU36y9upt1hivVNS6Z8IugzPX6cup-_6UtyBNx3Sf_W_sL7sgm9I)
+
+![](img/166ccd5a3f1116b416e5cc1ca36fb0cc.png)
+
+头条新闻
+
+今天开始的 **Zcash 基金会开发者大会**在 YouTube 流播放列表上。[阵容](http://email.mg1.substack.com/c/eJwlzr1uwyAUhuGrMSPiLwcyMFRxs2WvslRw8A-tbSzAg-8-pJW-4dveB10dppRPu6dSyVGG_B2DlQDGCBIs0wK1J9EKxg0DAVxxJoBy2n8qKW-cwd1w0eu-U2ydOC2HL9XhL8W0ktkyBRdABGGYMeEir9JoH9SIgGx0Achi51r3Tn504t7mY6XL2Y54fN0eT0XerLdIX5sn25_UOjjHzWE-95rG4y9U__ktHtLq4manJXm3YIpbHsrgMs4vTXNIvg)相当不错。[http://bit.ly/2tFhC9r](http://email.mg1.substack.com/c/eJwlzrtyhSAUheGnkZJhg3IpKDLH-BoZ3KKQqDiAhW8fTjKzitX9H7rqt5Qfe6VSyV18_oqLFVJqzclimeKoZhItZ6CZ5BJ6YFxSoONnL8QLmJw08FGNXc-ODWi551Id_lBMBwlWD8wotarFGIZukMIjggPAddDaGyC7DbVenfjo-NQ2x0r3px1ep_AymbxZb5EyzZPtd2odDPF0mJ-rpvX-C9V_fosv6XDxtNueZrdjimf2xbuM4RduRUkR)
+
+保险公司对韩国交易所:**强调更强的内部控制系统和安全**否则我们不能信任和保险你。http://bit.ly/2tGCBsc
+
+印度新的加密货币监管框架**可能会在 7 月上半月出台。**[http://bit.ly/2yILhEa](http://email.mg1.substack.com/c/eJwlzsFuhCAUheGnkSUBxAsuWDR1JmnSd2jgokKrYgAXvn2ZNjmLs_s_tHVeU77NmUolV5nzV_SmB9BaEG-YEqgciUYwrhkI4JIzAZTT6SH7_p0zeGouJjV1ku0rp-VypVr8oZh2EsyAVo0cQAKMTnkmmfeDH7RacHC4CLKZUOvZ9W-deLa5WOl2tyPuj8_wsOTFeonU2DzZfKfWwRAPi_k-a1quv1D957e4T7uNh1m35OyGKR55LrPNGH4BgudJSA)
+
+推特上有很多关于 EOS 的讨论和噪音。2 个突出的例子是 t **他的**
+**EOS 制作人，他因为没有更新他的配置** 而受到诉讼的威胁，还有一个 redditor，他指出 **EOS 社区每天向 21 个主要在 AWS 上主持的 block 制作人每个** **支付** [**万美元。**](http://email.mg1.substack.com/c/eJwlzjFuxCAQheHTmBLBQIAtKKI4mzOkioYxa5PYxgJc-PZhE-kVr_s_whbnXC5_5NrYWWP5SpNXxjgHbPLCAtnAkgchnTBgpJYCDJd8fNdKvUlh7k7CaMdBi22WvJ6hNqQfTnljiydFkyNt1Qs-HFqrVSRDGkHcCCRItvqltWNQrwPc-0JqfL36gfbxiRTYk_UU2Vv3FP-de4eWtCOV62j5cf6F2j-_x6e8Ydr9vOaAK-W0l1gjFlp-AY91SVA)
+
+![](img/4022d0c61b477df58e03a597df3629ae.png)
+
+硬币和外汇新闻
+
+鉴于所有媒体报道的 [**比特大陆矿池控制近 51%的比特币 hashrate**](http://email.mg1.substack.com/c/eJwlzkFyhCAQheHTyNKiuy1gFixSMR4gF0gBMkqiYkG78PZhkqq3eLv_C47jksttz1xZXDWWrzRbUsoYFLOVGoP2IlmUYKRCBQNIVD3048dA9A5STQZw1GM3yH2Bvl6-sgs_fci7WC2CCzjH4RkjaTCGPD2U9qSjAUXkxGZX5rOjtw6nNp-43-52kCee9k_xYr1E-tE8xX7n1glrOlwo98n5ef2F-J_f4nPeXTrssmXvtpDTUWKNroT1F3rMSSU) **，**我强烈建议你阅读一下区块链资本[矿业集中化场景](http://email.mg1.substack.com/c/eJwlj8tuhSAURb9GZhoeFnDAoKm9v3HDSz23AgZw4P36Spvsyc7OOVnL6urXlC91pFLRWXx-glOMcykpcgoLaoVBoCgmEnPKyUgw5QMZ5u-RsS-C-UMSOou5G3FYyVBOU6q2P4NNAW3KCLrwyRuGjfmwTFqGuWPTIr03I6UO7Wqr9Sgd--zo407wDs7Qrlsf8QtCuEqKa9sgQlx762PNeoe3rpBiX-6uM6TSG9HgtDOOcdR8moqYbpGsXul-ZjeI2ubrqGk5_wjrv_dN7VLQENW6J6N3myBmX7zOdvsFetxeag)中的 Jimmy Song，以全面了解这种风险意味着什么。比特大陆现在也在交付第**批** [**8000 台 Antminer Z9s。**](http://email.mg1.substack.com/c/eJwlzjtywyAUheHViJLhXjCQgiJjxZX3kOEViVgSCqBCuw-2Z05xuv_ztsUpl9PsuTZy1Fi-UzBcSq2RBMMUeuVIMshAM4kSBDCUFOj4JTi_ApM3DTiqcRBsnYDWw9Vm_YP6vJLZcMsVCmGD1Mo7xi8Rgg5RaxBMBhfIYubW9oF_Dnjrc6nR5ewHzzvDPyBP1lOkPrqnmN_cO35Om_Xl3Fv-OV6h9ub3eMirTZuZluzs4nPaSqzRFj__A2RESOQ)
+
+bitFlyer 和 Bitbank **的首席执行官在收到业务改善命令后，从日本自我监管的加密货币交易所机构**辞职。[http://bit.ly/2yLHdTM](http://email.mg1.substack.com/c/eJwlzrFyhCAUheGnkZK5gAtYUGRidrZIuvQZuKCSqDiAhW8fNpk5xen-D20Nc8qXOVKp5Cwhf0VvhJRac-INKI7KkWg4MA2SS9Yz4JIyOr71QrwykHfN-KjGrodtZrScrlSLPxTTRhajnOYwDEwqrxCmIMDDoLS2csKb856sZqn16MRLx-9tLla6Xu3w6_3hPz_Ik_UUqaF5svlOrYNL3C3m66hpOv9C9Z_f4j5tNu5mXpOzK6a451CCzbj8An6mSUA)
+
+总部位于德里的加密货币交易所 Coinsecure 有 438 个比特币被盗，将开始处理客户以卢比提出的赔偿要求。[http://bit.ly/2yKQVFP](http://email.mg1.substack.com/c/eJwlzjFzhCAQhuFfIyXDLh5gQZE5Y5MmadJmcOWURMUBLPz34ZKZLb5q34dc8XNMlz1iLuzMPn2FyUqljEE2WaGR9MiCRQFGKFTQgkDFgfevrZR3EGowgL3um1ZsM_B8jrk4-uEUN7ZYQTfthCFp4KE8dN1kjGyVE3gjrK_ZapdSjka-NDjUG0Ph61UHXm8fn8M7e7KeIt1VT7LfsXZoCbujdB0lPs6_UPnn1_gUNxd2O69xdCvFsCefvUu0_AI5FUiS)
+
+![](img/079e7d6d89f85df25f8d85490d2eb226.png)
+
+商业和法规新闻
+
+似乎直接禁止并不能帮助政府打击加密货币诈骗。至少，这是来自印度和中国的频繁报道所暗示的。http://bit.ly/2yHhETZ
+
+韩国官方:**韩国禁止匿名交易后，BTC“泡菜溢价”受到控制**。[http://bit.ly/2yIUTyH](http://email.mg1.substack.com/c/eJwlzrFyhCAUheGnkZIBxAtbUGTW7CR9Umfgikqi4gAWvH3YZOYUp_s_tMUvMVVzxlzIlX36CpPpAbQWZDJMCVSOBCMY1wwEcMmZAMrp-Cr7_s4ZPDQXoxo7yfaF03y5XCz-UIw7WU3Pgc3SqUFL5wbFQQvvbiAdIgzzYMlm1lLOrn_pxKPNhUK32o6o758f9Y08WU-RujVPMt-xdXANh8VUzxLn6y9U_vktPsXdhsMsW3R2wxiO5LO3CddfbO1JIA)
+
+阿里巴巴**与电信公司 3 Hong Kong** 签署协议，在区块链深化合作。[http://bit.ly/2yITHvd](http://email.mg1.substack.com/c/eJwlzsFuhCAUheGnkaWBCwJdsGhqJzP77hvgotKqGMAmvn2ZNjmLs_s_b2uYU77MkUolZwn5M6LhUmoNBA1V4JUj0QBlmkqQTDAKsmf9-C44f2NU3jSDUY2doNvM-nK6Uq3_7n3ayGLkhBCGSSEdhkFo6rl2AieHkiGARrKapdaj468d3NpcrP16tQPX4-P-g-TJeorUS_Nk85Vaxy9xtz5fR03T-Req__wWx7TZuJt5Tc6uPsU9hxJs9ssvpMlJiw)
+
+![](img/c09a3d9efd565c902d1b7a0e5e0d6d4a.png)
+
+查看我们过去三周的关于币安、比特大陆和中国密码获奖者的文章
+
+[祝贺 A16zcrypto 的 3 亿美元基金](http://email.mg1.substack.com/c/eJwlj0luxCAQRU_T7GxRgBkWLKI4fY2oGDykbWMBXvTtgxOpFl8lff33PNY4p_y2ZyqVXCXm7zVYLqXWjARLFfPKkdUyCppKJkEAZbKHfvwSnH8ClU8NbFTjQ9B9hr5crlT0r96nnSw2YOQgjBmEcQMoYwI32kkDMCAzw0Q2u9R6lgf_eLBnu1bbY_ax9dfDYbnDfv-X6F_pqi0agRpQxY5qNXViCKoz6GUXp0C9RECtKLl1bhNlmke2P6nx-WU90Of3WdN0_QHWf-0GHdKO62HnLTnc7u0cS8Tsl19mH1o0)
